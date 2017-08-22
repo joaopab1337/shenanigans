@@ -18,10 +18,10 @@ Projeto final da disciplina de Linguagens de Script, onde são expostas as diver
 
 ## Inspiração
 
-⋅⋅* http://www.hearthhead.com/cards
+ http://www.hearthhead.com/cards
 
 
 ## Recursos da API
 
-⋅⋅* Imagens de cartas normais e douradas
-⋅⋅* Informações sobre todas as cartas
+* Imagens de cartas normais e douradas
+* Informações sobre todas as cartas
